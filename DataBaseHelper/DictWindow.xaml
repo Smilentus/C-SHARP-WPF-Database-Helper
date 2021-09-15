@@ -1,0 +1,19 @@
+﻿<Window x:Class="DataBaseHelper.DictWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBaseHelper"
+        mc:Ignorable="d"
+        Title="DictWindow" Height="450" Width="800" MinWidth="800" MinHeight="450" MaxWidth="800" MaxHeight="450" Background="#FF232323" Closing="Window_Closing">
+    <Grid>
+        <Label x:Name="NameLabel" Content="Содержимое словаря" HorizontalAlignment="Left" Margin="150,9,0,0" VerticalAlignment="Top" Foreground="#FFFFBB07"/>
+        <TextBox x:Name="MainTextBox" HorizontalAlignment="Left" TextWrapping="Wrap" AcceptsReturn="True" Height="369" Margin="145,40,0,0" VerticalAlignment="Top" Width="634" UndoLimit="1024" VerticalScrollBarVisibility="Auto" FontSize="14" Background="#FF595959" TextChanged="MainTextBox_TextChanged" IsEnabled="False" Foreground="#FFFFBB07"/>
+        <Label x:Name="NameLabel_Copy" Content="Словари" HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Foreground="#FFFFBB07"/>
+        <ListBox x:Name="dictsListBox" HorizontalAlignment="Left" Height="369" Margin="7,40,0,0" VerticalAlignment="Top" Width="133" Background="#FF595959" SelectionChanged="dictsListBox_SelectionChanged" Foreground="#FFFFBB07"/>
+        <Label x:Name="NameText" Content="..." HorizontalAlignment="Left" Margin="285,9,0,0" VerticalAlignment="Top" Foreground="#FFFFBB07"/>
+        <CheckBox x:Name="autosave_checkbox" Content="Сохранять при изменении?" HorizontalAlignment="Left" Margin="457,12,0,0" VerticalAlignment="Top" Height="18" Width="184" Foreground="#FFFFBB07" Checked="autosave_checkbox_Checked"/>
+        <Button x:Name="saveButton" Content="Сохранить" HorizontalAlignment="Left" Margin="646,9,0,0" VerticalAlignment="Top" Width="133" Height="26" Click="saveButton_Click" Foreground="#FFFFBB07" Background="Black"/>
+
+    </Grid>
+</Window>

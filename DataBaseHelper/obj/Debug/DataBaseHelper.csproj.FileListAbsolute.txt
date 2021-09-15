@@ -1,0 +1,65 @@
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\bin\Debug\DataBaseHelper.exe.config
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\bin\Debug\DataBaseHelper.exe
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\DataBaseHelper.csprojAssemblyReference.cache
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\MainWindow.g.cs
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\App.g.cs
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\DataBaseHelper_MarkupCompile.cache
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\DataBaseHelper_MarkupCompile.lref
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\MainWindow.baml
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\DataBaseHelper.g.resources
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\DataBaseHelper.Properties.Resources.resources
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.GenerateResource.cache
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\DataBaseHelper.exe
+C:\Projects\C#\DataBaseHelper\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\DataBaseHelper.exe.config
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\DataBaseHelper.exe
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.csprojAssemblyReference.cache
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\MainWindow.g.cs
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\App.g.cs
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper_MarkupCompile.cache
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper_MarkupCompile.lref
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\MainWindow.baml
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.g.resources
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.Properties.Resources.resources
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.GenerateResource.cache
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.exe
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DictWindow.g.cs
+C:\Projects\C#\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DictWindow.baml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\DataBaseHelper.exe.config
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\DataBaseHelper.exe
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.csprojAssemblyReference.cache
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DictWindow.g.cs
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\MainWindow.g.cs
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\App.g.cs
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper_MarkupCompile.cache
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper_MarkupCompile.lref
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DictWindow.baml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\MainWindow.baml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.g.resources
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.Properties.Resources.resources
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.GenerateResource.cache
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.CoreCompileInputs.cache
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.exe
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автозаполнение Баз Данных\DataBaseHelper V2.0\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.CopyComplete

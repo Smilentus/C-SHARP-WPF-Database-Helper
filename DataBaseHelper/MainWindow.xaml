@@ -1,0 +1,161 @@
+﻿<Window x:Class="DataBaseHelper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBaseHelper"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" MinWidth="800" MinHeight="450" MaxWidth="800" MaxHeight="450" Background="#FF3E3E3E">
+    <Window.Resources>
+        <Style x:Key="MainCanvas" TargetType="Canvas">
+            <Setter Property="Height" Value="50"/>
+            <Setter Property="Width" Value="768"/>
+            <Setter Property="Background" Value="#FF2C2C2C"/>
+        </Style>
+        <Style x:Key="NumLbl" TargetType="Label">
+            <Setter Property="Canvas.Left" Value="10"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+        </Style>
+        <Style x:Key="InputString" TargetType="TextBox">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Canvas.Left" Value="340"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="360"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+            <Setter Property="Background" Value="#FF4F4F4F"></Setter>
+        </Style>
+        <Style x:Key="DateTimePickerMin" TargetType="xctk:DateTimePicker">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Canvas.Left" Value="340"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="FontSize" Value="9"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+            <Setter Property="Background" Value="#FF4F4F4F"></Setter>
+        </Style>
+        <Style x:Key="DateTimePickerMax" TargetType="xctk:DateTimePicker">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Canvas.Left" Value="540"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="FontSize" Value="9"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+            <Setter Property="Background" Value="#FF4F4F4F"></Setter>
+        </Style>
+        <Style x:Key="TimePickerMin" TargetType="xctk:TimePicker">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Canvas.Left" Value="340"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+            <Setter Property="Background" Value="#FF4F4F4F"></Setter>
+        </Style>
+        <Style x:Key="TimePickerMax" TargetType="xctk:TimePicker">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Canvas.Left" Value="540"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+            <Setter Property="Background" Value="#FF4F4F4F"></Setter>
+        </Style>
+        <Style x:Key="DatePickerMin" TargetType="DatePicker">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Canvas.Left" Value="340"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+            <Setter Property="Background" Value="#FF4F4F4F"></Setter>
+        </Style>
+        <Style x:Key="DatePickerMax" TargetType="DatePicker">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Canvas.Left" Value="540"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+            <Setter Property="Background" Value="#FF4F4F4F"></Setter>
+        </Style>
+        <Style x:Key="InputMinInterval" TargetType="TextBox">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Canvas.Left" Value="340"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+            <Setter Property="Background" Value="#FF4F4F4F"></Setter>
+        </Style>
+        <Style x:Key="InputMaxInterval" TargetType="TextBox">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Canvas.Left" Value="540"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+            <Setter Property="Background" Value="#FF4F4F4F"></Setter>
+        </Style>
+        <Style x:Key="Label1" TargetType="Label">
+            <Setter Property="Content" Value="ОТ"/>
+            <Setter Property="Canvas.Left" Value="300"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="30"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+        </Style>
+        <Style x:Key="Label2" TargetType="Label">
+            <Setter Property="Content" Value="ДО"/>
+            <Setter Property="Canvas.Left" Value="500"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="30"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Foreground" Value="#FFFFBB07"></Setter>
+        </Style>
+        <Style x:Key="RemoveButton" TargetType="Button">
+            <Setter Property="Content" Value="X"/>
+            <Setter Property="Canvas.Left" Value="730"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="30"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Background" Value="#FF890707"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="16"/>
+        </Style>
+        <Style x:Key="ComboBox" TargetType="ComboBox">
+            <Setter Property="Canvas.Left" Value="50"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="240"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="Black"></Setter>
+        </Style>
+        <Style x:Key="ComboBoxDict" TargetType="ComboBox">
+            <Setter Property="Canvas.Left" Value="340"/>
+            <Setter Property="Canvas.Top" Value="10"/>
+            <Setter Property="Width" Value="360"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Foreground" Value="#FF131313"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid Background="#FF1B1B1B">
+        <ScrollViewer x:Name="MainScroll" HorizontalAlignment="Left" Height="347" VerticalAlignment="Top" Width="790" Margin="0,70,0,0" Background="#FF535353" Grid.RowSpan="2">
+            <StackPanel x:Name="MainStack" Height="712" Width="768" Background="#FF535353" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </ScrollViewer>
+        <Button x:Name="AddBtn" Content="Добавить блок" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="46" Margin="136,10,0,0" Click="AddBtn_Click" Foreground="#FFFFBB07" Background="Black"/>
+        <TextBox x:Name="InputAmountTextBox" HorizontalAlignment="Left" Height="23" Margin="11,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center" TextChanged="TextBox_TextChanged" Background="#FF4F4F4F" Foreground="#FFFFBB07"/>
+        <Label Content="Количество блоков" HorizontalAlignment="Left" Margin="11,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.103,0.558" Foreground="#FFFFBB07"/>
+        <Button x:Name="GetBtn" Content="Получить код" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="46" Margin="366,10,0,0" Click="GetBtn_Click" Foreground="#FFFFBB07" Background="Black"/>
+        <TextBox x:Name="InputLinesAmount" HorizontalAlignment="Left" Height="23" Margin="241,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center" TextChanged="TextBox_TextChanged" Background="#FF4F4F4F" Foreground="#FFFFBB07"/>
+        <Label Content="Количество записей" HorizontalAlignment="Left" Margin="241,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.103,0.558" Foreground="#FFFFBB07"/>
+        <Button x:Name="ShowDictsBtn" Content="Открыть словари" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" Height="46" Margin="660,10,0,0" Click="ShowDictsBtn_Click" Foreground="#FFFFBB07" Background="Black"/>
+    </Grid>
+</Window>
